@@ -9,8 +9,8 @@ This boilier plate includes all of the basic features that you need to start a n
 
 
 ## Libraries Used
-- Django 3.1.7
-- Python 3.8
+- Django 4.0.5
+- Python 3.11
 - Django Rest Framework
 
 ## Generate Django Secret
@@ -27,9 +27,9 @@ cd django-rest-boilerplate
 # See available pyton versions
 pyenv install --list
 # Install the python version
-pyenv install 3.9.13
+pyenv install 3.11
 # Create a virtual environment
-pyenv virtualenv 3.9.13 <env-name>
+pyenv virtualenv 3.11 <env-name>
 # Activate the virtual environment
 pyenv activate <env-name>
 # Please use pyenv here, if you want to attach this code with aws-lambda

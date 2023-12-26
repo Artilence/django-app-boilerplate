@@ -1,5 +1,5 @@
 Django==4.0.5
-zappa
+zappa==0.58.0
 django-storages==1.12.3
 django-model-utils==4.2.0
 pydash==5.1.0
