@@ -1,4 +1,3 @@
-.idea
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -275,3 +274,6 @@ dump.rdb
 ### Project template
 
 .pytest_cache/
+.idea
+.vscode
+db.sqlite3
